@@ -1,0 +1,20 @@
+{
+  "name": "twitterloginpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node console.log('hello')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olacarol/TwitterLoginPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olacarol/TwitterLoginPage/issues"
+  },
+  "homepage": "https://github.com/olacarol/TwitterLoginPage#readme"
+}
